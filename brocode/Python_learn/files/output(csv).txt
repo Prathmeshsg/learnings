@@ -1,0 +1,4 @@
+Name,Age,Job
+Spongebob,30,cook
+Patrick,35,designer
+Sandy,32,developer
